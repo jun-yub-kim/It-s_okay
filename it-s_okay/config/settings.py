@@ -102,7 +102,7 @@ DATABASES = {
 }
 
 # user model
-AUTH_USER_MODEL = "account.CustomUserModel"
+AUTH_USER_MODEL = "user.CustomUserModel"
 
 
 
